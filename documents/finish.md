@@ -15,3 +15,7 @@ Add inside the package.json, the scripts:
 
 We save all the changes and upload it to github.
 
+We publish the page:
+>npm run deploy
+
+Ready!
