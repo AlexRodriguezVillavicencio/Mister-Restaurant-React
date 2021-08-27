@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Mister-Restaurant-React/static/js/main.d7ccf740.chunk.js",
+    "main.js.map": "/Mister-Restaurant-React/static/js/main.d7ccf740.chunk.js.map",
+    "runtime-main.js": "/Mister-Restaurant-React/static/js/runtime-main.17c9c40f.js",
+    "runtime-main.js.map": "/Mister-Restaurant-React/static/js/runtime-main.17c9c40f.js.map",
+    "static/js/2.93f25544.chunk.js": "/Mister-Restaurant-React/static/js/2.93f25544.chunk.js",
+    "static/js/2.93f25544.chunk.js.map": "/Mister-Restaurant-React/static/js/2.93f25544.chunk.js.map",
+    "index.html": "/Mister-Restaurant-React/index.html",
+    "static/js/2.93f25544.chunk.js.LICENSE.txt": "/Mister-Restaurant-React/static/js/2.93f25544.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17c9c40f.js",
+    "static/js/2.93f25544.chunk.js",
+    "static/js/main.d7ccf740.chunk.js"
+  ]
+}
