@@ -1,0 +1,16 @@
+.foot-container1{
+    background-color: #FFD600;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+.foot-container2{
+    background-color: #565554;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.foot-container2 a{
+    color: #fff;
+}

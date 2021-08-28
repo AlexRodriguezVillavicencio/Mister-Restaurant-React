@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #000;
+}
+
+/* **********MENU************** */
+header{
+    position: fixed;
+    width: 100vw;
+}
+.mister-logo{
+    position: absolute;
+    z-index: 1;
+    width: 118px;
+    height: 114px;
+    left: 30px;
+    top: 8px;
+}
+.nav{
+    display: flex;
+    flex-flow: wrap row;
+    background-color: #FFD600;
+    min-height: 61px;
+}
+
+.nav-items {
+    display: flex;
+    gap: 50px;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    align-content: center;
+    width: 100vw;
+    margin-right: 60px;
+}
+.nav-menu{
+    display: flex;
+    flex-flow: column wrap;
+
+}
+/* ************SUB MENU*************++ */
+.nav-menu-items{
+    display: flex;  
+    justify-content: center;
+    position: absolute;
+    background-color: #bba83d;
+    top:61px;
+    width: 100vw;
+    left: 0;
+    gap: 40px;
+    padding: 45px 0;
+    visibility: hidden;   
+}
+.nav-menu-item{
+    display: flex;
+    border: 2px solid green;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
